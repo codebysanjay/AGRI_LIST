@@ -4,7 +4,7 @@
 * The arrangement can be done with the help of priority keys which can be used to set high priority and low priority.
 * The user can edit the list once created.
 * This helps the user to remember important things and to prioritize the task accordingly.
-* This is mobile application built with flutter a framework created by Google using `DART` Language.
+* This mobile application is built with flutter a framework created by Google using `DART` Language.
 
 
 <p align="center">
